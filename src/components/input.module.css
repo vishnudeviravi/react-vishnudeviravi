@@ -1,0 +1,8 @@
+.recipeInput {
+  margin: 20px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(224, 224, 224);
+  font-size: 20px;
+  padding: 6px;
+}
